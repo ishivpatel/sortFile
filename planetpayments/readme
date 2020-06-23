@@ -1,0 +1,14 @@
+//Created by Shiv Patel on 6/23/2020
+
+// This Program Take 3 paramaters, 1st Read File Location, 2nd Sort Type and 3rd Output File Location
+
+// Sort types are of 3 types:
+/*
+ 1 -  represents sort by First Name
+ 2 - represents sort by Last Name
+ 3 - represents sort by Start Date
+
+
+
+
+*/
